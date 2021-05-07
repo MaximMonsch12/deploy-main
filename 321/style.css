@@ -1,0 +1,19 @@
+.questBox{
+	font-size: 40px;
+	margin: 0 0 0 600px;
+}
+
+input{
+	padding: 5px 5px 5px 0;
+	font-size: 35px;
+}
+
+.checkBox{
+	padding: 8px 15px 8px 15px;
+	margin: 0 0 0 30px;
+	font-size: 14px;
+}
+
+.space1{
+	padding: 200px 0 0 0;
+}
